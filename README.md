@@ -5,3 +5,4 @@
 - veiw binding
 - recyclerview
 - my listener(을 쓰려고 했으나 실패..)
+- code refactoring(계획)
